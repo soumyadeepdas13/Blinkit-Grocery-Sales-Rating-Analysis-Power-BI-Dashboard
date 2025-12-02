@@ -21,6 +21,7 @@ Explore slicers → Outlet Type, Location, Size & Item Type
 View insights through interactive visuals
 
 📸 Dashboard Preview
+
 <img width="1227" height="745" alt="image" src="https://github.com/user-attachments/assets/f83908f8-93ed-40d4-b153-0b50f37c33fa" />
 
 
