@@ -62,7 +62,7 @@ Reveals sales trends over establishment years
 
 
 
-Video Preview
+📹 Video Preview
 
 https://github.com/user-attachments/assets/2a17d381-fd0c-4815-af84-d5b798ea997a
 
