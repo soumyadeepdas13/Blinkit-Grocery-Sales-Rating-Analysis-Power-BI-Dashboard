@@ -48,6 +48,8 @@ Low-Rated but High-Sales Items (quality risks)
 Ranking system using RANKX
 Smart flags for quality and sales segmentation
 
+---
+
 🧠 What This Dashboard Solves
 
 Identifies best-selling categories & weak performers
