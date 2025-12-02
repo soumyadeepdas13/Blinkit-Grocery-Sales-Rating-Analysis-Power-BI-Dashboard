@@ -55,6 +55,8 @@ Highlights outlets contributing highest revenue
 Shows items with high demand but low quality
 Helps improve inventory management & product strategies
 Reveals sales trends over establishment years
+
+
 ---
 
 📸 Dashboard Preview
